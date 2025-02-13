@@ -73,6 +73,7 @@ include "aai_lib/aai_conexion.php";
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="https://www.igroupsolution.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.4" type="text/css" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="https://www.igroupsolution.com/wp-content/uploads/elementor/css/global.css?ver=1655307069" type="text/css" media="all">
 <link rel="stylesheet" id="elementor-post-10988-css" href="css/10988.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-10989-css" href="https://www.igroupsolution.com/wp-content/uploads/elementor/css/post-10988.css?ver=1739464318" type="text/css" media="all">
  <!--<link rel="stylesheet" id="fluentform-elementor-widget-css" href="https://www.igroupsolution.com/wp-content/plugins/fluentform/public/css/fluent-forms-elementor-widget.css?ver=4.3.1" type="text/css" media="all">-->
  <!--<link rel="stylesheet" id="hfe-widgets-style-css" href="https://www.igroupsolution.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.7" type="text/css" media="all">-->
 <link rel="stylesheet" id="hello-elementor-css" href="https://www.igroupsolution.com/wp-content/themes/hello-elementor/style.min.css?ver=2.4.2" type="text/css" media="all">

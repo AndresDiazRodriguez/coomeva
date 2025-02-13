@@ -70,6 +70,7 @@ img.emoji {
 <link rel="stylesheet" id="font-awesome-4-shim-css" href="https://www.igroupsolution.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.4" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="https://www.igroupsolution.com/wp-content/uploads/elementor/css/global.css?ver=1690597090" media="all">
 <link rel="stylesheet" id="elementor-post-12094-css" href="https://www.igroupsolution.com/wp-content/uploads/elementor/css/post-12094.css?ver=1691628755" media="all">
+<link rel="stylesheet" id="elementor-post-10048-css" href="https://www.igroupsolution.com/wp-content/uploads/elementor/css/post-10048.css?ver=1739462887" media="all">
 <!--<link rel="stylesheet" id="fluentform-elementor-widget-css" href="https://www.igroupsolution.com/wp-content/plugins/fluentform/public/css/fluent-forms-elementor-widget.css?ver=4.3.10" media="all">-->
 <!--<link rel="stylesheet" id="hfe-widgets-style-css" href="https://www.igroupsolution.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.14" media="all"> -->
 <link rel="stylesheet" id="wp-mail-smtp-admin-bar-css" href="https://www.igroupsolution.com/wp-content/plugins/wp-mail-smtp/assets/css/admin-bar.min.css?ver=3.7.0" media="all">
